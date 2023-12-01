@@ -1,5 +1,9 @@
-menu {
-    width: 25%;
-    height: 100%;
-    background-color: black;
+h2 {
+    margin: 50px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 50px;
 }
